@@ -131,3 +131,6 @@ dmypy.json
 
 # dataset
 tweets.csv
+
+# Global Vectors for Word Representation
+glove.6B.300d.txt
